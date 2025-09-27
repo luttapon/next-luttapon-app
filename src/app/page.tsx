@@ -1,4 +1,3 @@
-// src/app/page.tsx
 import ProfileCard from '@/components/profileCard';
 import Sidebar from '@/components/SidebarIcons';
 
